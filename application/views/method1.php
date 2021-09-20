@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <div id="ResultString"></div><br><br>
 
-    <div id="ErrorFileString"></div><br><br>
+    <div id="ErrorFileString"></div><br><br> <br><br>
 </div>
 	<script>
 		let mergedObject = JSON.parse('<?php echo $ResultArray; ?>');
