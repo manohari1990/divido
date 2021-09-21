@@ -1,0 +1,2 @@
+﻿"environment","database__host","database__port","database__username","database__password","cache__redis__host","cache__redis__port"
+"Production","mysql","3306","dividohq","dividohq","127.0.0.1","5000"
