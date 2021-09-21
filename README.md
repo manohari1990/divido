@@ -1,4 +1,4 @@
-# divido
+# Divido - Run Application
 
 Developed this application using Codeigniter 3.0 version.
 
